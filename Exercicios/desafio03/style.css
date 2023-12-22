@@ -1,0 +1,15 @@
+
+
+.banner {
+    width: 600px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.container {
+    background-color: #2B9E5F;
+    width: 600px;
+    height: auto;
+    border-radius: 5px;
+}
